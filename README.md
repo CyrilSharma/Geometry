@@ -1,12 +1,12 @@
 # TODO
-- Convex Hull
-- Sweeplines: Intersection, Region Labelling
-- Art Gallery
-- Half-Plane Intersection with LP
-- Interval Trees
-- Range Trees
-- KD-Trees
-- Point Location
-- Voronoi Diagram
-- Delauney Triangulation
-- Visibility Graphs
+- [x] Convex Hull
+- [x] Sweeplines: Intersection, Region Labelling
+- [ ] Art Gallery
+- [ ] Half-Plane Intersection with LP
+- [x] Interval Trees
+- [x] Range Trees
+- [x] KD-Trees
+- [x] Point Location
+- [x] Voronoi Diagram
+- [ ] Delauney Triangulation
+- [ ] Visibility Graphs
