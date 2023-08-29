@@ -1,1 +1,12 @@
-A repository of algorithms from Computational Geometry.
+# TODO
+- Convex Hull
+- Sweeplines: Intersection, Region Labelling
+- Art Gallery
+- Half-Plane Intersection with LP
+- Interval Trees
+- Range Trees
+- KD-Trees
+- Point Location
+- Voronoi Diagram
+- Delauney Triangulation
+- Visibility Graphs
